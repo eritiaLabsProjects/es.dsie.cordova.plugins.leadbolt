@@ -31,8 +31,8 @@
     <repo></repo>
     <issue></issue>
 
-    <js-module src="www/AdController.js" name="notification">
-        <merges target="window.admob" />
+    <js-module src="www/AdController.js" name="AdController">
+        <merges target="window.AdController" />
     </js-module>
 
     <!-- android -->
